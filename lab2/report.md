@@ -14,8 +14,8 @@ Date of finished: 24.12.2024
 
 #### <a> Построение сети связи</a>
 
-[Uploading marsh2.yaml…]()
-name: lab2
+
+
 
 mgmt:
 network: statics
